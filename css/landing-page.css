@@ -37,8 +37,8 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 10%;
+    padding-bottom: 8%;
 }
 
 .intro-message > h1 {
@@ -103,15 +103,22 @@ h6 {
     margin-bottom: 30px;
 }
 
+.section-heading-category {
+    margin-bottom: 10px;
+}
+
 .section-heading-spacer {
     float: left;
     width: 200px;
     border-top: 3px solid #e7e7e7;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
+    background: black;
     background: url(../img/banner-bg.jpg) no-repeat center center;
     background-size: cover;
 }
@@ -157,8 +164,8 @@ h6 {
 }
 
 footer {
-    padding: 50px 0;
-    background-color: #f8f8f8;
+    padding: 10px 0;
+    background-color: white;
 }
 
 p.copyright {

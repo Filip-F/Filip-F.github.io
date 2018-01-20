@@ -2,7 +2,11 @@
 layout: default
 img: ipad.png
 category: Projects
-title: Death to the Stock Photo:<br>Special Thanks
+title: Cryptocurrency Market-Making
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Market-Making is an algorithmic trading program which seeks to capitalize on the current (relative) lack of competition on cryptocurrency markets from large investors due to market instability.
+
+Over the course of its life it has given roughly 8.8% monthly return, averaged over its entire lifespan.
+
+The source is private due to the secretive nature of the project, but further explanation is available on request.
