@@ -5,6 +5,8 @@ category: Projects
 title: Java Webchat
 description: |
 ---
-Java Webchat is a small chat application written collaboratively by myself and two friends entirely in Java. It uses a client/server model with one user hosting a chatroom and any number of clients all communicating via the RMI API. The UI for this project was done via JavaFX.
+Java Webchat is a small chat application written collaboratively by myself and two friends entirely in Java.
+
+It uses a client/server model with one user hosting a chatroom and any number of clients all communicating via the RMI API. The UI for this project was done via JavaFX.
 
 The source is available [here](https://github.com/Denton-L/Java-Webchat).
