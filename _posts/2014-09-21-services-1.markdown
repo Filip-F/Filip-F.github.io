@@ -1,6 +1,6 @@
 ---
 layout: default
-img: crypto.jpg
+img: crypto2.jpg
 category: Projects
 title: Cryptocurrency Market-Making
 description: |
