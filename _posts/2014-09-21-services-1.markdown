@@ -1,11 +1,11 @@
 ---
 layout: default
-img: ipad.png
+img: crypto.jpg
 category: Projects
 title: Cryptocurrency Market-Making
 description: |
 ---
-  Market-Making is an algorithmic trading program which seeks to capitalize on the current (relative) lack of competition on cryptocurrency markets from large investors due to market instability.
+Market-Making is an algorithmic trading program written in Python 3 which seeks to capitalize on the current (relative) lack of competition on cryptocurrency markets from large investors due to market instability.
 
 Over the course of its life it has given roughly 8.8% monthly return, averaged over its entire lifespan.
 
