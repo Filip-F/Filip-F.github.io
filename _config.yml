@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-email: your-email@domain.com
-author: Your Name
-description: >
-  Filip Francetic\'s personal website
+url: 'https://filip-f.github.io/'
+email: f.francet@hotmail.com
+author: Filip Francetic
+description: 'Filip Francetic\'s personal website'
+header-img: 'img/filip.png'
 copyright: 'Copyright &copy; 2018 Filip Francetic.'
 
 # ----------------------- #
